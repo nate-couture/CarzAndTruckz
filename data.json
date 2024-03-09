@@ -1,0 +1,112 @@
+{
+    "vehicles": [
+        {
+            "make": "Ford",
+            "model": "F150",
+            "year": 2012,
+            "color": "White",
+            "price": 28000,
+            "path": "images/Ford-F150-2012-White.jpg",
+            "type": "Truckz"
+        },
+        {
+            "make": "Toyota",
+            "model": "Camry",
+            "year": 2007,
+            "color": "Black",
+            "price": 6700,
+            "path": "images/Toyota-Camry-2007-Black.png",
+            "type": "Carz"
+        },
+        {
+            "make": "Ford",
+            "model": "Ranger",
+            "year": 1999,
+            "color": "Blue",
+            "price": 8000,
+            "path": "images/Ford-Ranger-2001-Blue.png",
+            "type": "Truckz"
+        },
+        {
+            "make": "Jeep",
+            "model": "Grand Patriot",
+            "year": 2011,
+            "color": "White",
+            "price": 7200,
+            "path": "images/Jeep-GrandPatriot-2011-White.jpg",
+            "type": "Carz"
+        },
+        {
+            "make": "Kia",
+            "model": "Soul",
+            "year": 2015,
+            "color": "Brown",
+            "price": 7200,
+            "path": "images/2015-KIA-SOUL.png",
+            "type": "Carz"
+        },
+        {
+            "make": "Kia",
+            "model": "Rio",
+            "year": 2016,
+            "color": "White",
+            "price": 7200,
+            "path": "images/2016-KIA-RIO-XL.png",
+            "type": "Carz"
+        },
+        {
+            "make": "Audi",
+            "model": "Q-3",
+            "year": 2016,
+            "color": "White",
+            "price": 7200,
+            "path": "images/2016-AUDI-Q-3-PREMIUM-PLUS.png",
+            "type": "Carz"
+        },
+        {
+            "make": "Jeep",
+            "model": "Gladiator Sport",
+            "year": 2020,
+            "color": "Black",
+            "price": 7200,
+            "path": "images/2020-JEEP-GLADIATOR-SPORT-S.png",
+            "type": "Truckz"
+        },
+        {
+            "make": "Jeep",
+            "model": "Gladiator Freedom",
+            "year": 2020,
+            "color": "White",
+            "price": 7200,
+            "path": "images/2021JEEPGLADIATORFREEDOM.png",
+            "type": "Truckz"
+        },
+        {
+            "make": "Honda",
+            "model": "Civic",
+            "year": 2022,
+            "color": "Purple",
+            "price": 12000,
+            "path": "images/2022HONDACIVICSPORTTOURING.png",
+            "type": "Carz"
+        },
+        {
+            "make": "Ford",
+            "model": "Maverick XL",
+            "year": 2024,
+            "color": "Red",
+            "price": 50000,
+            "path": "images/2024FORDMAVERICKXL.png",
+            "type": "Truckz"
+        },
+        {
+            "make": "Ram",
+            "model": "1500",
+            "year": 2018,
+            "color": "Red",
+            "price": 42000,
+            "path": "images/2018RAM1500SPORT.png",
+            "type": "Truckz"
+        }
+    ]
+}
